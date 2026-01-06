@@ -1,7 +1,5 @@
 fastapi
 uvicorn
 ultralytics
-torch
-torchvision
 pillow
 numpy
